@@ -4,7 +4,7 @@ Es un juego de obstáculos. Hay un jugador que está en la parte de abajo y que 
 
 Gameplay
 
-Ver vídeo del juego
+<video controls src="https://github.com/gdmo24/python/blob/main/2026-11-15%2018-01-02.mp4" title="Ver vídeo del juego"></video>
 
 Cómo ejecutarlo
 
